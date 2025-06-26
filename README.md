@@ -38,3 +38,5 @@ This is an educational resource. We do not endorse any illegal actions.
 ### Disclaimer:
 
 This resource is for educational purposes only.
+
+Update:  26.06.2025
